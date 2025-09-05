@@ -1,0 +1,12 @@
+
+{ 
+    crc :  780846075822610980  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 777966e9ec7849369285c2198c8ddcab --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot singleportRAM_tb_behav xil_defaultlib.singleportRAM_tb" , 
+    buildDate : "May 24 2019" , 
+    buildTime : "15:06:07" , 
+    linkCmd : "C:\\Xilinx\\Vivado\\2019.1\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/singleportRAM_tb_behav/xsimk.exe\"   \"xsim.dir/singleportRAM_tb_behav/obj/xsim_0.win64.obj\" \"xsim.dir/singleportRAM_tb_behav/obj/xsim_1.win64.obj\" -L\"C:\\Xilinx\\Vivado\\2019.1\\lib\\win64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

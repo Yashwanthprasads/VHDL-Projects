@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../singleportram.srcs/sources_1/new/singleportram.vhd" \
+"../../../../singleportram.srcs/sim_1/new/singleportram_tb.vhd" \
+
+# Do not sort compile order
+nosort
