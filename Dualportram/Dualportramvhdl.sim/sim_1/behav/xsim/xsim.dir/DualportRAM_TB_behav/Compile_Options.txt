@@ -1,0 +1,1 @@
+-wto "e66815035caf470fadf2a26cc3ec7f07" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "DualportRAM_TB_behav" "xil_defaultlib.DualportRAM_TB" -log "elaborate.log" 
